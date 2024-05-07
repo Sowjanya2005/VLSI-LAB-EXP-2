@@ -3,18 +3,19 @@ EXP 2:                          SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL 
 DATE: 
 
 AIM: 
- To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
+
+   To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
 
 APPARATUS REQUIRED:
-Xilinx 14.7
-Spartan6 FPGA
+    
+   Xilinx 14.7
+   Spartan6 FPGA
 
 ENCODER
 
 LOGIC DIAGRAM:
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/6987778/3cd1f95e-7531-4cad-9154-fdd397ac439e)
-
 
 VERILOG CODE:
 ```
