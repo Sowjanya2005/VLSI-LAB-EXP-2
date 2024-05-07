@@ -156,6 +156,7 @@ OUTPUT:
 ![magnitude comparator](https://github.com/navaneethans/VLSI-LAB-EXP-2/assets/159280328/792071df-952f-47e9-9394-676fd68bafaa)
 
 RESULT:
+
  Hence, the simulation and synthesis of ENCODER, DECODER, MULTIPLEXER, 
 DEMULTIPLEXER, MAGNITUDE COMPARATOR is verified using Xilinx ISE.
 
